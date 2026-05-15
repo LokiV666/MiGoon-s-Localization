@@ -3,6 +3,8 @@
 This document contains the changelog for every update to MiGoon's Localization Mod for WT as of update 1.01.10 - 15/05/2026.
 All dates are in DD/MM/YYYY format.
 
+---
+
 ## 1.01.11 - 15/05/2026:
 
 Fixed some issues regarding the README.md file.
