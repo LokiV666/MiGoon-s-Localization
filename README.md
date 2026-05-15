@@ -1,3 +1,21 @@
-Here is a small guide to creating the lang file neccessary for this mod to work: https://www.youtube.com/watch?v=4vkHCSSKTVo
-Once you're done with the steps shown in the video simply unzip the downloaded .zip file, unzip it and replace the lang file inside your war thunder folder with the unzipped one.
-Restart game and enjoy
+## Installation instructions
+
+1. Go to your War Thunder folder and open the file called config.blk.
+
+2. Find the section titled "debug" within config.blk.
+
+3. Within the debug section, add the line "testLocalization:b=yes". This must be a new line. It can be anywhere in the section, but adding it at the end is preferable. For example, this is what the debug section in my config.blk file looks like (you shouldn't copy this, this is just an example):
+
+debug{
+  screenshotAsJpeg:b=yes
+  512mboughttobeenoughforanybody:b=yes
+  enableNvHighlights:t="auto"
+  netLogerr:b=yes
+  testLocalization:b=yes
+}
+
+4. Launch the game. Once you have launched the game, a folder called lang will appear in your War Thunder folder.
+
+5. Drop every file ending in .csv and the file localization.blk from this mod's ModFiles folder that you dowloaded into that lang folder. It will tell you that this is replacing an existing file. THIS IS OKAY. This modified localization.blk file does not remove any of the things already in the base file. It simply adds this mod's files to the end of the load order so they will be read after the base game files, allowing the mod to work.
+
+6. Launch the game. The mod should now be installed and working.
