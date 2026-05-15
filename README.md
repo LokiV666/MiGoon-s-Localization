@@ -6,13 +6,7 @@
 
 3. Within the debug section, add the line "testLocalization:b=yes". This must be a new line. It can be anywhere in the section, but adding it at the end is preferable. For example, this is what the debug section in my config.blk file looks like (you shouldn't copy this, this is just an example):
 
-debug{
-  screenshotAsJpeg:b=yes
-  512mboughttobeenoughforanybody:b=yes
-  enableNvHighlights:t="auto"
-  netLogerr:b=yes
-  testLocalization:b=yes
-}
+<img width="216" height="125" alt="image" src="https://github.com/user-attachments/assets/45d9656a-8d8f-40d2-9f60-982dc2d98bfe" />
 
 4. Launch the game. Once you have launched the game, a folder called lang will appear in your War Thunder folder.
 
