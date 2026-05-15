@@ -16,6 +16,8 @@ debug{
 
 4. Launch the game. Once you have launched the game, a folder called lang will appear in your War Thunder folder.
 
-5. Drop the extracted lang file into your War Thunder folder. It will tell you that this is replacing an existing file. THIS IS OKAY. These modified localization.blk files do not remove any of the things already in the base file. They simply add this mod's files to the end of the load order so they will be read after the base game files, allowing the mod to work.
+5. Extract the files from "MiGoon-s-Localization.zip".
 
-6. Launch the game. The mod should now be installed and working.
+6. Drop the extracted lang file into your War Thunder folder. It will tell you that this is replacing an existing file. THIS IS OKAY. These modified localization.blk files do not remove any of the things already in the base file. They simply add this mod's files to the end of the load order so they will be read after the base game files, allowing the mod to work.
+
+7. Launch the game. The mod should now be installed and working.
