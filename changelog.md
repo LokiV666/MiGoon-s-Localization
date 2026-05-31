@@ -4,6 +4,66 @@ This document contains the changelog for every update to MiGoon's Localization M
 All dates are in DD/MM/YYYY format.
 
 ---
+## 1.01.13 - 31/05/2026:
+
+- ### Ground units
+<details>
+  
+*No Changes*
+</details>
+
+- ### Aircraft:
+<details>
+  
+  1. F-20A Tigershark -> F-20A Tigershart
+</details>
+
+- ### Ships:
+<details>
+  
+  *No Changes*
+</details>
+
+- ### Weaponry:
+
+1. All occurences of Hispano -> Hisparko
+2. SD-10(A) air-to-air missiles/SD-10/SD-10(A) air-to-air missiles/SD-10 -> STD-10(A) air-to-air misses (PL-12)/STD-10 (PL-12)/STD-10(A) air-to-air misses (PL-12)/SD-10 (PL-12)
+<details>
+  
+*No Changes*
+</details>
+
+- ### Menu:
+<details>
+
+*No Changes*  
+</details>
+
+- ### Loading Screen Tips:
+<details>
+
+  Corrected spelling of Kovchur -> Kvochur
+  1. For softer targets it would be best to use HE or HEAT shells. -> Too much CAS? Lol skill issue git gud.
+  2. Full calibre AP shells have less penetrating power than APCR or APDS shells, but they do more damage in case of successful penetration. -> Never, EVER under any circumcisation be helpful. (This is not a typo)
+  3. If the gunner is knocked out, the vehicle will not be able to fire for a while. It takes some time to replace them with another crew member -> 25 years in this world, and playing war thunder alone in a Friday night?
+  4. Field repair time increases when one or more crew members are unconscious. -> Flugabwehrraketensystem Roland auf Radkraftfahrzeug.
+  5. Vehicle fire rate reduces when the Loader is wounded or unconscious. -> Died to a tank that’s better than yours? Yeah the guy is clearly cheating lmao.
+  6. Added new loading screen tip:
+     "Died to a Fox 3 missile? Flares..."
+  7. Added new loading screen tip:
+     "AIM-7M is the same as AIM-7M"
+</details>
+
+- ### Other:
+<details>
+
+  1. Menu text change: The remaining part of the award will be accrued at the end of the fight. -> You died, skill issue.
+  2. Menu text change: Leave the plane -> J out
+  3. Menu text change: Leave the tank -> J out
+  4. Menu text change: Leave the helicopter -> J out
+</details>
+
+---
 
 ## 1.01.12 - 27/05/2026:
 
