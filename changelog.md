@@ -25,12 +25,10 @@ All dates are in DD/MM/YYYY format.
 </details>
 
 - ### Weaponry:
-
-1. All occurences of Hispano -> Hisparko
-2. SD-10(A) air-to-air missiles/SD-10/SD-10(A) air-to-air missiles/SD-10 -> STD-10(A) air-to-air misses (PL-12)/STD-10 (PL-12)/STD-10(A) air-to-air misses (PL-12)/SD-10 (PL-12)
 <details>
   
-*No Changes*
+1. All occurences of Hispano -> Hisparko
+2. SD-10(A) air-to-air missiles/SD-10/SD-10(A) air-to-air missiles/SD-10 -> STD-10(A) air-to-air misses (PL-12)/STD-10 (PL-12)/STD-10(A) air-to-air misses (PL-12)/SD-10 (PL-12)
 </details>
 
 - ### Menu:
