@@ -33,6 +33,7 @@ All dates are in DD/MM/YYYY format.
 <details>
   
 1. Added American names of Swedish export AIM-9s, AIM-7s and AIM-120s.
+2. Fixed renaming of RVV-SD to include original name (R-77-1)
 </details>
 
 - ### Menu:
