@@ -4,6 +4,59 @@ This document contains the changelog for every update to MiGoon's Localization M
 All dates are in DD/MM/YYYY format.
 
 ---
+
+## 1.01.14 - 20/06/2026:
+
+- ### Ground units
+<details>
+  
+1. Centauro -> Fentauro
+2. Senrai Maidens Challenger 2 -> Challenged 2 GOON
+3. Senrai Maidens MBT-2000 -> GoonBT-2000
+4. Senrai Maidens Type 90B -> Type 90 (B) "Goonji"
+5. Edited the Black Knight so the offensive part isn't visible everywhere
+</details>
+
+- ### Aircraft:
+<details>
+  
+  1. F-15J(M) -> F-15J(AM)
+</details>
+
+- ### Ships:
+<details>
+  
+  *No Changes*
+</details>
+
+- ### Weaponry:
+<details>
+  
+1. Added American names of Swedish export AIM-9s, AIM-7s and AIM-120s.
+</details>
+
+- ### Menu:
+<details>
+
+*No Changes*  
+</details>
+
+- ### Loading Screen Tips:
+<details>
+
+  Fixed Loading screen tips
+  Added German translations
+</details>
+
+- ### Other:
+<details>
+
+  1. Renamed manouver button
+  2. Removed "Fuel Shitting" text
+</details>
+
+---
+
 ## 1.01.13 - 31/05/2026:
 
 - ### Ground units
