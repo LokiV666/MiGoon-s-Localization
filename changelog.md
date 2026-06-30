@@ -5,7 +5,7 @@ All dates are in DD/MM/YYYY format.
 
 ---
 
-## 1.01.15 - 30/06/2026:
+## 1.02.15 - 30/06/2026:
 
 - ### Ground units
 <details>
