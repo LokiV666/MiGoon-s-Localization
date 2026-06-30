@@ -5,6 +5,68 @@ All dates are in DD/MM/YYYY format.
 
 ---
 
+## 1.01.15 - 30/06/2026:
+
+- ### Ground units
+<details>
+  
+1. Added new tanks from Heavy Cavalry
+2. All tanks with (P) in their name -> (P)enis
+3. Ariete/Leopard 2 PSO -> Ariete/Leopard 2 Piss Off (Only applies to when viewing statcard
+4. Palmaria -> Palmario
+5. Strv 122 PLSS -> Strv 122 PISS
+6. Merkava -> Jewkava
+7. Ra'am Sagol -> Rammed Seagull (Ony applies to statcard)
+</details>
+
+- ### Aircraft:
+<details>
+  
+  1. Added new aircraft from Heavy Cavalry
+  2. Added new Spitfires
+  3. Spitfire (Float) -> Boatfire
+  4. Israeli Meteors -> Jewteor
+  5. Jaguar IS -> Jaguar WAS
+</details>
+
+- ### Ships:
+<details>
+  
+  1. Added new ships from Heavy Cavalry
+</details>
+
+- ### Weaponry:
+<details>
+  
+1. KE-W -> KEK-W
+2. KE-W A2 -> KEK-W A2
+</details>
+
+- ### Menu:
+<details>
+  
+1. Censored Fr*nce - Many thanks to War Tinder for letting me... *borrow* her file.
+2. Added new kill messages for crashes and drone kills.
+<details>
+
+*No Changes*  
+</details>
+
+- ### Loading Screen Tips:
+<details>
+
+  *No Changes*
+</details>
+
+- ### Other:
+<details>
+  
+1. SPO-15 -> PMO-15 (This includes SPO-150)
+</details>
+
+
+---
+
 ## 1.01.14 - 20/06/2026:
 
 - ### Ground units
