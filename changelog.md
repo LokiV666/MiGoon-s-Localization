@@ -5,7 +5,7 @@ All dates are in DD/MM/YYYY format.
 
 ---
 
-## 1.02.16 - 09/07/2026:
+## 1.02.02 - 09/07/2026:
 
 - ### Ground units
 <details>
@@ -53,7 +53,7 @@ All occurences of Gaijin -> Gayjin (Will see how well it works)
 
 ---
 
-## 1.02.15 - 30/06/2026:
+## 1.02.01 - 30/06/2026:
 
 - ### Ground units
 <details>
