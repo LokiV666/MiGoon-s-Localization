@@ -5,6 +5,54 @@ All dates are in DD/MM/YYYY format.
 
 ---
 
+## 1.02.16 - 09/07/2026:
+
+- ### Ground units
+<details>
+  
+  1. Challenged 2 (GOON) -> Challengoon 2 (OES)
+</details>
+
+- ### Aircraft:
+<details>
+  
+  1. F-14D -> F-14D(ih)
+  2. Super Tomcat -> Super Tomboy
+</details>
+
+- ### Ships:
+<details>
+  
+  *No Changes*
+</details>
+
+- ### Weaponry:
+<details>
+  1. AIM-120A(ss) - Added a space so it made more sense
+  2. AIM-120Dih -> AIM-120D(ih) - Now it is in line with other AIM-120 variants
+  3. HOSBO -> HOBO
+</details>
+
+- ### Menu:
+<details>
+  
+  1. Fixed the A-point being displayed as "Ass" constantly
+</details>
+
+- ### Loading Screen Tips:
+<details>
+
+  1. Added new loading screen tip: "The dildo of consequences rarely arrives lubed." - German translation added as well
+</details>
+
+- ### Other:
+<details>
+  
+All occurences of Gaijin -> Gayjin (Will see how well it works)
+</details>
+
+---
+
 ## 1.02.15 - 30/06/2026:
 
 - ### Ground units
@@ -47,9 +95,7 @@ All dates are in DD/MM/YYYY format.
   
 1. Censored Fr*nce - Many thanks to War Tinder for letting me... *borrow* her file.
 2. Added new kill messages for crashes and drone kills.
-<details>
 
-*No Changes*  
 </details>
 
 - ### Loading Screen Tips:
@@ -63,7 +109,6 @@ All dates are in DD/MM/YYYY format.
   
 1. SPO-15 -> PMO-15 (This includes SPO-150)
 </details>
-
 
 ---
 
