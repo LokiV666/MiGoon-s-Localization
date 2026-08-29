@@ -1,10 +1,51 @@
 # Changelog
 
-This document contains the changelog for every update to MiGoon's Localization Mod for WT as of update 1.01.10 - 15/05/2026.
+This document contains the changelog for every update to MiGoon's Localization Mod for WT as of update 1.01.10 - 1.02.03.
 All dates are in DD/MM/YYYY format.
 
 ---
 
+## 1.02.03 - 29/08/2026:
+
+- ### Ground units
+<details>
+  
+  1. Ho-Ri Prototype -> Hor-Ni Prototype
+  2. Ho-Ri Production -> Hor-Ni Production
+</details>
+
+- ### Aircraft:
+<details>
+  
+  1. Welkin -> Jerkin
+  2. Alpha Jet E -> Beta Jeta E (Corrected error made when first changed)
+</details>
+
+- ### Ships:
+<details>
+  
+  *No Changes*
+</details>
+
+- ### Weaponry:
+<details>
+  
+  *No Changes*
+</details>
+
+- ### Menu:
+<details>
+  
+  *No Changes*
+</details>
+
+- ### Loading Screen Tips:
+<details>
+
+  1. Corrected quote: "We do not want players to buy their way to the top" - Gaijin Entertainment
+</details>
+
+---
 ## 1.02.02 - 09/07/2026:
 
 - ### Ground units
