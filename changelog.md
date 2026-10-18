@@ -5,7 +5,7 @@ All dates are in DD/MM/YYYY format.
 
 ---
 
-## 1.02.03 - 29/08/2026:
+## 1.03.00 - 18/10/2026:
 
 - ### Ground units
 <details>
