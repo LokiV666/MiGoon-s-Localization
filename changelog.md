@@ -10,6 +10,64 @@ All dates are in DD/MM/YYYY format.
 - ### Ground units
 <details>
   
+  1. T-80UK -> T-80UKirk
+  2. FK-2000 -> FucK-2000
+</details>
+
+- ### Aircraft:
+<details>
+  
+  1. F-14D tomcat -> F-14D(Dih) Tomboy - This is the tech tree variant
+  2. F-4F KWS -> F-4F KMS
+  3. F-16XL now shows up as F-16XL at longer ranges, allowing for easier identfication
+  4. Hawk T -> Hawk Tuah
+  5. Su-25K -> Su-25Kirk
+  6. BV 238 -> BVVD 238
+  7. F-16A Netz > F-16A Netzenyahu
+  8. F-16A Netz (Mod) > F-16A Netzenyahu (Mod)
+  9. Wing Loong -> Wing Looooooong
+  10. Rafale EG -> Jewfailure
+</details>
+
+- ### Ships:
+<details>
+  
+  *No Changes*
+</details>
+
+- ### Weaponry:
+<details>
+  
+  *No Changes*
+</details>
+
+- ### Menu:
+<details>
+  
+  1. Flares/Chaff -> Chares/Flaff
+  2. GEC-Macron Avionics -> GEC-Macaroni Avionics
+</details>
+
+- ### Loading Screen Tips:
+<details>
+
+  1. It’s normal for bombers to absorb 6 or more hits from air-to-air missiles, now turn around and look at the flowers.
+  2. You are War Thunder's elite, never forget that.
+  3. Stock HEATFS against modern composite armour and ERA is an elaborate social experiment designed to test your capacity for forgiveness.
+  4. The Centurion's stabilizer lets you fire accurately while moving at full speed. Unfortunately, "full speed" for a Centurion is roughly the pace of an energetic tortoise.
+  5. 9/10 doctors recommend that you avoid dying.
+  6. Do not leak classified military documents on the official forums to win an argument today, please wait until at least tomorrow.
+  7. Trees are solid objects. Except when they aren't. Testing of this theory is ill-advised while flying at Mach 1.2.
+  8. Grok is the best AI in the world. All heil Elon Musk.
+</details>
+
+---
+
+## 1.02.03 - 29/08/2026:
+
+- ### Ground units
+<details>
+  
   1. Ho-Ri Prototype -> Hor-Ni Prototype
   2. Ho-Ri Production -> Hor-Ni Production
 </details>
