@@ -12,6 +12,7 @@ All dates are in DD/MM/YYYY format.
   
   1. T-80UK -> T-80UKirk
   2. FK-2000 -> FucK-2000
+  3. Rapid Deployment Force Light Tank -> Rapid Deployment Femboy Light Tank
 </details>
 
 - ### Aircraft:
