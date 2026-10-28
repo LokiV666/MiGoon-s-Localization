@@ -5,6 +5,68 @@ All dates are in DD/MM/YYYY format.
 
 ---
 
+## 1.03.01 - 28/10/2026:
+
+- ### Ground units
+<details>
+  
+*No Changes*
+</details>
+
+- ### Aircraft:
+<details>
+  
+1. Every Israeli Spitfire -> Jewfire
+2. Kfir -> Jewfir
+3. F-5TH Super Tigris -> F-5TH Super Ladyboy
+4. F-5TH
+</details>
+
+- ### Ships:
+<details>
+  
+  *No Changes*
+</details>
+
+- ### Weaponry:
+<details>
+  
+  1. AIM-54 Phoenix (All variants) -> AIM-54 Peenix
+  2. AIM-4G Super Falcon air-to-air missiles -> AIM-4G Super Falcon air-to-air miss
+  3. AIM-4F Super Falcon air-to-air missiles -> AIM-4F Super Falcon air-to-air miss
+  4. 120 mm PCB -> Penetration Cum Blast
+</details>
+
+- ### Menu:
+<details>
+  
+1. 120 mm rifled Arjun cannon -> 120mm Penetration Cum Blaster
+2. 120mm PCB -> Penetration Cum Blast
+3. Phoon (NCTR) -> Typhoon
+4. Ally -> Blue enemy
+5. Superior (titles) -> Inferior
+6. Aircraft Colliion -> You can't park there mate
+7. Bailed out -> Wussy
+8. fuel tank -> piss tank
+9. Measuring range -> Thinking
+10. Updating range -> Thinking harder
+</details>
+
+- ### Loading Screen Tips:
+<details>
+
+  1. While in battle, press F1 to view help on the controls. -> Pay attention to these tips. They've been carefully calibrated to ensure your success.
+  2. It's a shit or be shit world. And I'm gonna shit in your pants.
+  3. Homophobia is the jealousy of not getting dih (or puh, we're very inclusive here).
+  4. In the 1970s Switzerland once tricked foxes into vaccinating themselves which led to the elimination of terrestrial rabies.
+  5. Foxes have vertical pupils. They know what you did.
+  6. The red fox's scientific name is Vulpes vulpes. Literally, Fox Fox. Someone really wanted to make sure.
+  7. "Must    buff    Rafale" - DirectSupport -> "Rafale underperforming, please buff" - DirectSupport.
+
+
+---
+
+
 ## 1.03.00 - 18/10/2026:
 
 - ### Ground units
